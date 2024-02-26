@@ -12,11 +12,11 @@ To enhance the data through Using Excel Tools:-Pivot Table, VLOOKUP, Measures, C
 3. Build a Dynamic Dashboard to visualize patterns and trends.
 
         Key Insights
-1️⃣ Total Revenue generated In the last six months is $698,81K.
-2️⃣ Total Orders genereated in the last six month is 149,12K.
-3️⃣ Weekdays emerge as the champions for revenue generation,this tailoring promotions and events to maximize sales during the bustling weekdays.
-4️⃣ Surpassing Expectations in June,Revenue is increased compared to Jan Month.
-5️⃣ From 8 AM to 11 AM emerges as the golden period with peak sales every day, indicating a strong morning rush,However,the evening hours from 6 PM to 8 PM witness a decline in sales.
-6️⃣ Coffee and Tea are the best selling product categories and it generates a cumulative revenue of $269.9k and $196.4k respectively.
-7️⃣ Sales are evenly distributed across the three locations, each contributing 33% to the total revenue.
-8️⃣ Top selling product type is Barista Espresso,in a substantial $60k price. and the Premium Beans though a rarity, contribute $11k in price.
+1️. Total Revenue generated In the last six months is $698,81K.
+2️. Total Orders genereated in the last six month is 149,12K.
+3️. Weekdays emerge as the champions for revenue generation,this tailoring promotions and events to maximize sales during the bustling weekdays.
+4️. Surpassing Expectations in June,Revenue is increased compared to Jan Month.
+5️. From 8 AM to 11 AM emerges as the golden period with peak sales every day, indicating a strong morning rush,However,the evening hours from 6 PM to 8 PM witness a decline in sales.
+6️. Coffee and Tea are the best selling product categories and it generates a cumulative revenue of $269.9k and $196.4k respectively.
+7️. Sales are evenly distributed across the three locations, each contributing 33% to the total revenue.
+8️. Top selling product type is Barista Espresso,in a substantial $60k price. and the Premium Beans though a rarity, contribute $11k in price.
